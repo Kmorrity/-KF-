@@ -1,5 +1,5 @@
 close all;
-clear all; %测试
+clear all; %同步测试
 
 mul=0; % 均值
 S1=0.1; % 协方差
